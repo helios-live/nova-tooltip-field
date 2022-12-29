@@ -1,3 +1,5 @@
-Nova.booting((Vue, router) => {
-    Vue.component('index-nova-tooltip-field', require('./components/IndexField'));
+import IndexField from './components/IndexField'
+
+Nova.booting((app, store) => {
+  app.component('index-nova-tooltip-field', IndexField)
 })

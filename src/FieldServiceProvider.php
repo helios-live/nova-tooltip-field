@@ -1,10 +1,10 @@
 <?php
 
-namespace philperusse\NovaTooltipField;
+namespace Ideatocode\NovaTooltipField;
 
-use Laravel\Nova\Nova;
-use Laravel\Nova\Events\ServingNova;
 use Illuminate\Support\ServiceProvider;
+use Laravel\Nova\Events\ServingNova;
+use Laravel\Nova\Nova;
 
 class FieldServiceProvider extends ServiceProvider
 {
