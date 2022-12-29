@@ -1,4 +1,4 @@
-# Laravle Nova 4 Tooltip field
+# Laravel Nova 4 Tooltip field
 
 A Laravel Nova Tooltip field for the index view.
 
