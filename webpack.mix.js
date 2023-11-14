@@ -6,5 +6,5 @@ mix
     .setPublicPath('dist')
     .js('resources/js/field.js', 'js')
     .vue({ version: 3 })
-    //   .css('resources/css/field.css', 'css')
+    .css('resources/css/field.css', 'css')
     .nova('ideatocode/nova-tooltip-field')
