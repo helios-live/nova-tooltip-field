@@ -15,7 +15,7 @@ Inspired by: https://github.com/philperusse/nova-tooltip-field
 Run this command in your Laravel Nova project:
 
 ```shell 
-$ composer require ideatocode/nova-tooltip-field
+$ composer require helios-live/nova-tooltip-field
 ```
 
 ## Usage
